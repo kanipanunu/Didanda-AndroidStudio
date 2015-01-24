@@ -11,7 +11,7 @@
     <application
         android:allowBackup="true"
         android:icon="@drawable/didanda_icon"
-        android:label="ぢだんだ"
+        android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.meguko.didanda.MainActivity"
